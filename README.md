@@ -6,10 +6,10 @@ Hi there! 👋 I'm a Full Stack JavaScript Developer with a passion for building
 
 <!-- Skills -->
 ## Skills
-- **Frontend**: React.js, Next.js, Gatsby
+- **Frontend**: React.js, Next.js, Gatsby, Zustand, Redux, Tailwind
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Firebase, Prisma
-- **Testing**: Jest
+- **Testing**: Jest, TDD
 - **APIs**: RESTful, GraphQL
 - **Deployment**: Heroku, Netlify, Vercel
 - **Other**: Git, GitHub Actions
