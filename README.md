@@ -16,12 +16,11 @@ Hi there! 👋 I'm a Full Stack JavaScript Developer with a passion for building
 
 <!-- Projects -->
 ## Projects
-### Project 1: [E-commerce App] (Link: https://mellow-halva-5b4284.netlify.app/)
-YourMarket is a state-of-the-art e-commerce application designed to deliver a seamless and immersive shopping experience. Developed using a powerful stack comprising React, Redux, Hooks, GraphQL, Firebase, and Stripe for payment, this application redefines the way users interact with online marketplaces.
+### Project 1: [OAPP] (Link: [https://arami.vercel.app])
+Discover the easiest way to satisfy your pizza cravings with OAPP. Customize and order your favorite pizzas with just a few taps on their smartphone or tablet. Users can browse through a variety of pizza options, select toppings, crust types, and sizes, and even add sides and drinks to their order.
 
-### Project 2: [ShareHub](Link: https://share-7p1383hxk-frekeasuquo.vercel.app/)
-ShareHub is more than just a sharing application; it's a dynamic hub of connectivity and collaboration, uniting individuals and teams in a shared digital space. It redefines the way we collaborate, share ideas, and innovate together.
-
+### Project 2: [URHealth](Link: https://checkhealth.vercel.app)
+URHealth is a modern web application built with Next.js, TypeScript, and TailwindCSS to streamline patient care and administrative processes. It leverages Twilio for seamless communication, enabling healthcare providers to manage appointments, track patient records, and send reminders efficiently. Designed for ease of use, the app combines a clean, responsive interface with robust functionality to enhance the patient experience and simplify healthcare management.
 <!-- Certifications -->
 ## Certifications
 - [Certification Name](Link to certification) - Issuing Organization
